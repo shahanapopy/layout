@@ -1,0 +1,100 @@
+.header{
+	width: 100%;
+    min-height: 100px;
+    background-color: #ff00c1;
+    color: white;
+    text-align: center;
+    margin: 0px;
+   
+}
+h2{
+	text-align: center;
+	color: red;
+}
+h3{
+	margin :0px;
+	padding: 30px;
+}
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	min-height: 300px;
+    width: 70%;
+    background-color: #4a846b;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.contact{
+	min-height: 300px;
+    width: 30%;
+    background-color: #8a8917;
+    float: right;
+    text-align: center;
+    color: #fff
+}
+.footer{
+	min-height: 100px;
+    background-color: #000000;
+    text-align: center;
+    color: #fff;
+    margin: 0px;
+}
+/*3content layout*/
+.blog1{
+	min-height: 300px;
+    width: 33.333%;
+    background-color: #148669;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.contact1{
+	min-height: 300px;
+    width: 33.333%;
+    background-color: #8a8917;
+    float: left;
+    text-align: center;
+    color: #fff
+}
+.service{
+	min-height: 300px;
+    width: 33.333%;
+    background-color: #8a4f17;
+    float: right;
+    text-align: center;
+    color: #fff
+}
+/*4 CONTENT LAYOUT*/
+.blog2{
+	min-height: 300px;
+    width: 25%;
+    background-color: #148669;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.about{
+	min-height: 300px;
+    width: 25%;
+    background-color: #144e86;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.contact2{
+	min-height: 300px;
+    width: 25%;
+    background-color: #8a8917;
+    float: left;
+    text-align: center;
+    color: #fff
+}
+.service2{
+	min-height: 300px;
+    width: 25%;
+    background-color: #8a4f17;
+    float: right;
+    text-align: center;
+    color: #fff
